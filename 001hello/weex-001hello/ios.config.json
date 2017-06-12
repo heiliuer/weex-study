@@ -1,0 +1,9 @@
+{
+  "AppName":"weex-001hello",
+  "AppId":"com.heiliuer.weex_001hello",
+  "Version":"0.1",
+  "BuildVersion":"0.1.0",
+  "CodeSign":"",
+  "Profile":"",
+  "WeexBundle":"app.weex.js"
+}

@@ -1,0 +1,6 @@
+{
+  "AppName":"weex-001hello",
+  "AppId":"com.heiliuer.weex_001hello",
+  "SplashText":"Hello\nweex-001hello",
+  "WeexBundle":"app.weex.js"
+}
