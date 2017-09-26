@@ -2,6 +2,11 @@
 
 > A Weex project
 
+## 参考文档
+
+- [hackernoon](https://hackernoon.com/how-to-create-a-weex-vue2-project-6b94981bee4e)
+- [官方](https://weex.apache.org/cn/guide/tools/toolkit.html)
+
 ## getting start
 
 ```bash
@@ -39,3 +44,5 @@ npm run debug
 ## notes
 
 You can config more babel, ESLint and PostCSS plugins in `webpack.config.js`.
+
+

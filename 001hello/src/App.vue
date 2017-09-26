@@ -1,7 +1,7 @@
 <template>
     <div class="wrapper" @click="update">
         <image :src="logoUrl" class="logo"></image>
-        <text class="title">Hello {{target}}</text>
+        <text class="title">Hello112 {{target}}</text>
     </div>
 </template>
 
@@ -22,6 +22,8 @@
 </style>
 
 <script>
+    import * as Vue from "vue";
+
     export default {
         data: {
             logoUrl: 'https://alibaba.github.io/weex/img/weex_logo_blue@3x.png',
